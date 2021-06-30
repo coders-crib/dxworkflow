@@ -18,4 +18,4 @@ jobs:
         id: hello
         # pass input parameter
         with:
-          dev-hub: ${{ secrets.DEV_HUB }}
+          dev-hub: ${{ secrets.DEV_HUB_ORG }}
