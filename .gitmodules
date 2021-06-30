@@ -1,0 +1,4 @@
+[submodule "config"]
+	branch = main
+	path = config
+	url = git@github.com:coders-crib/config.git
